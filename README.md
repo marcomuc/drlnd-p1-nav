@@ -25,10 +25,10 @@ The agent itself requires only standard python3, PyTorch and Numpy.
 
 # Instructions
 You have two options:
-1. You can run the agent using the provided pre-trained weights and observe how the agents performs over 100 episodes by executing the following command.
-* python banana_agent.py*
+1. You can run the agent using the provided pre-trained weights and observe how the agents performs over 100 episodes by executing the following command:
+*python banana_agent.py*
 2. Alternatively you can retrain the agent yourself. Please note that this overwrites the provided pre-trained weights if you do not modify the code before.
-* python banana_agent.py retrain*
+*python banana_agent.py retrain*
 The last option is especially interesting if you want to play with the agent's parameters yourself.
 
 # More advanced stuff
