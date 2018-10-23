@@ -30,7 +30,7 @@ class DQAgent():
             gamma (float): discount factor
             tau (float): for soft update of target network parameters
             lr (float): learning rate of online q-network gradient descent
-            update_every (int): how often to update the network
+            update_every (int): how often to train and update the network
 
 
         """
